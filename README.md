@@ -1,6 +1,7 @@
 # angular-weatherapp
 
-A personal learning tool for Angular.
+A personal learning tool for Angular while reading Angular 2 Development with 
+TypeSCript by Yakov Fain and Anton Moiseev (Manning).
 
 ## Links
 

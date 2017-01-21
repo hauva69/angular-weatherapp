@@ -1,20 +1,9 @@
 {
   "name": "angular-weatherapp",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A personal learning tool for Angular.",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hauva69/angular-weatherapp.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/hauva69/angular-weatherapp/issues"
-  },
-  "homepage": "https://github.com/hauva69/angular-weatherapp#readme"
+  }
 }

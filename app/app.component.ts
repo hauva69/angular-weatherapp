@@ -1,11 +1,11 @@
 import {Component} from '@angular/core';
 
 @Component({
-    selector: 'app',
+    selector: 'weather-application',
     template: `<h1>Weather for {{ location }}!</h1>`
 })
 export class AppComponent {
-    name: string;
+    location: string;
 
     constructor() {
         this.location = 'helsinki';
